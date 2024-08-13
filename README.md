@@ -1,1 +1,1 @@
-# Simple ASCI-based flappy dragon game
+# Simple ASCII-based flappy dragon game
